@@ -1,0 +1,142 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "do_objectID": "60BE08C3-E0FD-4E1B-9C44-FAE2B9456201",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1000,
+    "width": 1300,
+    "x": -1297,
+    "y": 2926
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B1C79723-5394-4CD4-9715-28C134917D22"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C39D2757-7DFF-4DDD-B674-CFDC9486D1D7"
+    },
+    {
+      "class": "group",
+      "id": "7FADD130-FD66-46AC-8EBA-B7F871F4B0B9"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "E3A47C57-DE95-422C-AEC8-0838296572F8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9F73C9B5-FA6A-4AA1-8592-CB476C8B49CC"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "0FDDF4F0-6D43-4D21-9C6C-F1EE35472906"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A83235BC-6657-4281-80C1-85F7513F8944"
+    },
+    {
+      "class": "text",
+      "id": "C642D4DE-3BD1-4CAF-8AE0-A5BE125B0C40"
+    },
+    {
+      "class": "group",
+      "id": "66C7A99A-DF7A-45B6-A9E5-40E5FB8D272F"
+    },
+    {
+      "class": "group",
+      "id": "B3BD796A-5760-47E8-8905-7A27CFD6F312"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F3FA56D-E925-46C6-BE22-8B7C3EC4D910"
+    },
+    {
+      "class": "group",
+      "id": "D06A3C3D-D5EA-415D-8F7E-9CFAE2630024"
+    }
+  ],
+  "layout": {
+    "_class": "layoutGrid",
+    "columnWidth": 67.5,
+    "drawHorizontal": true,
+    "drawHorizontalLines": true,
+    "drawVertical": true,
+    "gutterHeight": 30,
+    "gutterWidth": 30,
+    "guttersOutside": false,
+    "horizontalOffset": 80,
+    "isEnabled": false,
+    "numberOfColumns": 12,
+    "rowHeightMultiplication": 30,
+    "totalWidth": 1140
+  },
+  "name": "ЛК_Подписки",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}
