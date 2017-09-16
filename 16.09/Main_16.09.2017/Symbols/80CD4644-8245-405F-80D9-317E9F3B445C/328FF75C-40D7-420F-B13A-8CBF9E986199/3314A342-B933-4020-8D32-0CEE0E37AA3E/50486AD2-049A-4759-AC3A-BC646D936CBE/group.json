@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "50486AD2-049A-4759-AC3A-BC646D936CBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 189,
+    "width": 175,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "0B775A18-06A3-45BA-8C05-C068E88358A2"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "C5E56EE2-8991-416E-86B7-A9D2852C7A10"
+    },
+    {
+      "class": "text",
+      "id": "28582B63-BDAC-4A38-86B2-47B822062EFF"
+    },
+    {
+      "class": "text",
+      "id": "2DD0BA4B-D575-4CBE-8112-A324262B07B9"
+    }
+  ],
+  "name": "Регион Москва Москов + автономный округ - Ю Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

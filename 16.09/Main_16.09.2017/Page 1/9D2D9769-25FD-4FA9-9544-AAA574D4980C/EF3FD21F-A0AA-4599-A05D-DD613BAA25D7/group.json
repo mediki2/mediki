@@ -14,7 +14,7 @@
     "_class": "rect",
     "constrainProportions": false,
     "height": 30,
-    "width": 1170,
+    "width": 1182,
     "x": 50,
     "y": 550
   },
@@ -26,12 +26,8 @@
   "layerListExpandedType": 2,
   "layers": [
     {
-      "class": "group",
-      "id": "8B796D85-21FB-434E-AA64-CB60643C568D"
-    },
-    {
-      "class": "group",
-      "id": "3EA75B94-43E3-4351-B6C3-097A25E5285A"
+      "class": "symbolInstance",
+      "id": "A207A42D-4F0B-41B9-BCA7-520A99779589"
     },
     {
       "class": "group",
