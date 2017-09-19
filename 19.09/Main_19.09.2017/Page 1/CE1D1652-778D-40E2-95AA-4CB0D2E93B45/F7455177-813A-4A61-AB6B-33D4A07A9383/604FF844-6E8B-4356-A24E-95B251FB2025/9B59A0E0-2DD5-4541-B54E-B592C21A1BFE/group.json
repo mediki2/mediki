@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "9B59A0E0-2DD5-4541-B54E-B592C21A1BFE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 878,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "7DCEB860-2B4F-4A0D-8A79-FDAF2663A549"
+    },
+    {
+      "class": "text",
+      "id": "3DF162FA-41DA-492A-88BA-3880C441EFE4"
+    },
+    {
+      "class": "group",
+      "id": "49AE5AE1-89AE-495F-89E6-EA07F17CCDB8"
+    },
+    {
+      "class": "text",
+      "id": "B9469197-48AB-4B09-8AAF-231A49730A6E"
+    },
+    {
+      "class": "text",
+      "id": "73730DAF-A3B4-43AF-BF8B-F0BF603D3ABA"
+    },
+    {
+      "class": "bitmap",
+      "id": "AF6F66DE-09E1-4C23-9FB6-596C9B744F4D"
+    }
+  ],
+  "name": "Объявдение",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

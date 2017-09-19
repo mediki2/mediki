@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "CCE1EDAF-54F2-45AA-96F3-18EBAB28C662",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 16,
+    "width": 15,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "ADF47103-3C0D-4BEF-A37B-DD12EBE68D44"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD466EF8-859D-47FC-B9F4-9E1F2DDE564C"
+    },
+    {
+      "class": "group",
+      "id": "89B403DD-0FB9-4CAC-BCA4-C9B91F2F9916"
+    }
+  ],
+  "name": "поиск иконка",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 12,
+      "type": 0
+    },
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

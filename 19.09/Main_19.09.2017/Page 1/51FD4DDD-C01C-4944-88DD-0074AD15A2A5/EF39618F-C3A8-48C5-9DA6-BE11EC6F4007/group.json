@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "EF39618F-C3A8-48C5-9DA6-BE11EC6F4007",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 30,
+    "width": 715,
+    "x": 50,
+    "y": 280
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "8164D1D8-6E8E-4741-9183-93F7908513F4"
+    },
+    {
+      "class": "group",
+      "id": "81E0CDC7-E2E3-47A5-AE81-74048B513865"
+    },
+    {
+      "class": "group",
+      "id": "0E9D36A8-18E3-42D7-88D7-C307FC903D29"
+    },
+    {
+      "class": "group",
+      "id": "90DE6D0B-D833-452B-AEC2-FFC7D7CF5029"
+    }
+  ],
+  "name": "Теги",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

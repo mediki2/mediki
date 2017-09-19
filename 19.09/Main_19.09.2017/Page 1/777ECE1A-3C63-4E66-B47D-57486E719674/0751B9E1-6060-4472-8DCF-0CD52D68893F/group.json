@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "0751B9E1-6060-4472-8DCF-0CD52D68893F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1612,
+    "width": 1300,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "FF38F41A-C24B-4CDA-88D3-5D3036C60F4A"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DA0AA466-515F-491E-B0FE-59011BAC78E4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD21CA67-8E16-467A-BA9B-B3252790AFAA"
+    },
+    {
+      "class": "group",
+      "id": "D6557822-BD01-4958-A171-C289AD7AF23C"
+    },
+    {
+      "class": "group",
+      "id": "CE485525-1CB1-4628-AFB8-E41EDCD0CA47"
+    },
+    {
+      "class": "group",
+      "id": "1BD79409-71E7-4893-9DA5-FC10BD42A1BC"
+    }
+  ],
+  "name": "модалка",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

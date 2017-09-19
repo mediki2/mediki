@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "CBDDC45A-C313-4E6F-8330-887A223CF46E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 293,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "76154EB4-A224-49BE-B2EC-2E15C3473EA9"
+    },
+    {
+      "class": "group",
+      "id": "694477F0-C111-4C2F-B1EC-C02FDC9635AF"
+    },
+    {
+      "class": "group",
+      "id": "C8B2E7A6-75D4-4FA9-AF9E-76C0CAC57E21"
+    },
+    {
+      "class": "text",
+      "id": "77C3FCB7-7925-4978-BE9D-EB18DB67E9EC"
+    },
+    {
+      "class": "text",
+      "id": "200FF58E-D7D0-46CC-BE98-3BEE628D13CB"
+    },
+    {
+      "class": "text",
+      "id": "8C150818-3AF1-4A7E-8E58-EB6D08468C9A"
+    }
+  ],
+  "name": "Специалист",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

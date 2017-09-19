@@ -1,0 +1,45 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "5AB83089-9463-4781-8162-1C7EAB3D6489",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 260,
+    "width": 878,
+    "x": 0,
+    "y": 540
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "masterInfluenceEdgeMaxXPadding": 4,
+  "masterInfluenceEdgeMaxYPadding": 6,
+  "masterInfluenceEdgeMinXPadding": 4,
+  "masterInfluenceEdgeMinYPadding": 2,
+  "name": "Объявление",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "07FD8008-2D26-4A30-85F1-8F0ECDA14604",
+  "verticalSpacing": 0
+}

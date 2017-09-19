@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGbG1YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QGwcIDxAeHyAhIiMnLzAxMjM6PklMT1NbX2NmaFUkbnVsbNMJCgsMDQ5YTlNTdHJpbmdWJGNsYXNzXE5TQXR0cmlidXRlc4ACgBqAA28QDwQhBD4ERQRABDAEPQQ4BEIETAAgBD8EPgQ4BEEEOtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiACYARgBWAGVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yIwAAAAAAAAAA0gokJSZfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AQgArTERIKKCsuoikqgAuADKIsLYANgA6AD18QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AsAAAAAAAAXlJvYm90by1SZWd1bGFy0jQ1NjdaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjNjg5XE5TRGljdGlvbmFyeVhOU09iamVjdNI0NTs8XxAQTlNGb250RGVzY3JpcHRvcqI9OV8QEE5TRm9udERlc2NyaXB0b3LWP0BBQgpDREVGRUhGWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAEiNANAAAAAAAAIASgBTSEgpKS6CAE9I0NU1OV05TQXJyYXmiTTnSNDVQUV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo1BSOV8QEE5TUGFyYWdyYXBoU3R5bGXUVFVWCldYWVpVTlNSR0JcTlNDb2xvclNwYWNlXxASTlNDdXN0b21Db2xvclNwYWNlTxAoMC4wMDc4NDMxMzcyNTUgMC43NDExNzY0NzA2IDAuNzY4NjI3NDUxABABgBaAGNJcCl1eVE5TSUQQAYAX0jQ1YGFcTlNDb2xvclNwYWNlomI5XE5TQ29sb3JTcGFjZdI0NWRlV05TQ29sb3KiZDnSNDU4Z6I4OdI0NWlqXxASTlNBdHRyaWJ1dGVkU3RyaW5noms5XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0W5vVHJvb3SAAQAIABEAGgAjAC0AMgA3AFUAWwBiAGsAcgB/AIEAgwCFAKYArQC1AMAAxQDHAMkAywDNANIA1ADWANgA2gDcAOMBBQEYASABKQEuAUsBTQFPAVYBWQFbAV0BYAFiAWQBZgF8AZIBmwGqAa8BugHDAdkB3QHqAfMB+AILAg4CIQIuAjkCRQJXAmQCdgJ4AnoCgwKFAocCjAKNAo8ClAKcAp8CpAK+AsIC1QLeAuQC8QMGAzEDMwM1AzcDPANBA0MDRQNKA1cDWgNnA2wDdAN3A3wDfwOEA5kDnAOxA8MDxgPLAAAAAAAAAgEAAAAAAAAAcAAAAAAAAAAAAAAAAAAAA80="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "6C2B5E42-6789-4B13-A0AE-FD8BF54632DF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 113,
+    "x": 25,
+    "y": 0
+  },
+  "glyphBounds": "{{0, 4}, {113, 14}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Сохранить поиск",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "86B02B94-3B45-4C5A-ACA6-63425FF6632E"
+  },
+  "textBehaviour": 0
+}
