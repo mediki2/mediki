@@ -115,6 +115,14 @@
     {
       "class": "shapeGroup",
       "id": "3227BF7F-A02C-4726-B3FA-D8FD645D4A2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "8D5EDF0C-A038-4321-A65F-0935377C132C"
+    },
+    {
+      "class": "text",
+      "id": "43714ECB-A056-435B-8246-CDF481420BC8"
     }
   ],
   "layout": {

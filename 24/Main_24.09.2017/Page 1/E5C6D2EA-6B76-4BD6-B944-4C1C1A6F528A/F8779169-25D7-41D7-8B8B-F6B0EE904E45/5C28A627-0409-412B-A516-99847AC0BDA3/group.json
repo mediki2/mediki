@@ -16,13 +16,13 @@
     "height": 40,
     "width": 125,
     "x": 30,
-    "y": 58
+    "y": 45
   },
   "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
-  "isVisible": true,
+  "isVisible": false,
   "layerListExpandedType": 2,
   "layers": [
     {
