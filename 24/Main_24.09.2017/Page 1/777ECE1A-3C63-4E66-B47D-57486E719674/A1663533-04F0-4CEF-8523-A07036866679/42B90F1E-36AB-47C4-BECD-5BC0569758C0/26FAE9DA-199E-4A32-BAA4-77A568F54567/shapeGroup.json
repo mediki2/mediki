@@ -1,0 +1,86 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "26FAE9DA-199E-4A32-BAA4-77A568F54567",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 28,
+    "width": 16.266,
+    "x": 30,
+    "y": 26
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "60F6365B-5533-4DCC-83C5-A241E26048C1"
+    },
+    {
+      "class": "shapePath",
+      "id": "4F7C0443-C805-4AE7-82C1-6FDDF82F2DFA"
+    },
+    {
+      "class": "shapePath",
+      "id": "79588090-E768-41EB-AE16-5EBA19862C95"
+    },
+    {
+      "class": "shapePath",
+      "id": "03F2A1C2-6826-4B3B-AC2C-74898DA09E38"
+    },
+    {
+      "class": "shapePath",
+      "id": "2413D9E3-8E2E-4DCF-B8CB-26F92ED2C2AB"
+    },
+    {
+      "class": "shapePath",
+      "id": "35E2A48B-4363-4681-A53B-DE5997BD871B"
+    }
+  ],
+  "name": "smartphone-with-shield",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3019607843137255,
+          "green": 0.1764705882352942,
+          "red": 0.03921568627450982
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "windingRule": 1
+}

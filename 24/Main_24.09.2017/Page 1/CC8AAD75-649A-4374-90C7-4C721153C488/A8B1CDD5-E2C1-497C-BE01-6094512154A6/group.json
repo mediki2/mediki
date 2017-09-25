@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A8B1CDD5-E2C1-497C-BE01-6094512154A6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 150,
+    "width": 1200,
+    "x": 50,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "15F69CC0-F86B-4D67-A116-DC1931F8343E"
+    },
+    {
+      "class": "group",
+      "id": "F4B3DA7F-4722-482D-82C9-7B4B45C653B1"
+    },
+    {
+      "class": "group",
+      "id": "1F1CA5E5-7F42-41B7-8301-4B584F746920"
+    },
+    {
+      "class": "group",
+      "id": "30588CDE-D471-4BF1-ACCA-6101C4B9ECBE"
+    }
+  ],
+  "name": "Поиск",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

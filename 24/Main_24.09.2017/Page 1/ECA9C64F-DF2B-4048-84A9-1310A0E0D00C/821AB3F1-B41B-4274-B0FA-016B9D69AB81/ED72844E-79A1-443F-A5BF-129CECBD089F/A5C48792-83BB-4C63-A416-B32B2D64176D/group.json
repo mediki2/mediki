@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "do_objectID": "A5C48792-83BB-4C63-A416-B32B2D64176D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 179,
+    "width": 877,
+    "x": 20,
+    "y": 49
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "D811C26D-16A6-4C57-94CD-ABDD11ACF643"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "A7921842-75F8-43A4-9219-443DC0E9D386"
+    },
+    {
+      "class": "text",
+      "id": "6F50BCE8-AAE0-4E3E-A126-50A6F2DF0AC0"
+    },
+    {
+      "class": "text",
+      "id": "52E87365-A9D6-4252-A160-1A0FBE9655B4"
+    }
+  ],
+  "name": "Уведомления",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

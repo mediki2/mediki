@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "do_objectID": "CFD86E7A-9ADF-48F3-85BD-9BD4A43F7BCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 210,
+    "width": 1200,
+    "x": 50,
+    "y": 120
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "1C74B1C5-8199-4C4C-9574-C5B269E039A0"
+    },
+    {
+      "class": "group",
+      "id": "EA10DDE4-031E-4C81-AFDE-0AE2D632A75D"
+    },
+    {
+      "class": "group",
+      "id": "96661548-0E0A-49DD-8DFD-9EC74A027001"
+    },
+    {
+      "class": "group",
+      "id": "52C4A320-6A31-453C-AEE5-AC683428A830"
+    },
+    {
+      "class": "group",
+      "id": "EE4B31CE-844F-4BDC-BA40-C7E2EC3A062D"
+    },
+    {
+      "class": "group",
+      "id": "52C108DB-5EFD-4878-BE5E-E0070DEAAA4B"
+    },
+    {
+      "class": "group",
+      "id": "8723F5D5-C40F-4A73-97F9-EEC9A8B89D4E"
+    }
+  ],
+  "name": "Поиск",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

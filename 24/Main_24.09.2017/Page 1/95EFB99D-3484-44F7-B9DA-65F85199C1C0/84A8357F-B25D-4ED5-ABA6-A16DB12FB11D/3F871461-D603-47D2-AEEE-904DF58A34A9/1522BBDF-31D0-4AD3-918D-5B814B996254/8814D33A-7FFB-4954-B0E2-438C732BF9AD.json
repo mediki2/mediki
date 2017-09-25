@@ -1,0 +1,47 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "MSAttributedString",
+    "archivedAttributedString": {
+      "_archive": "YnBsaXN0MDDUAQIDBAUGcXJYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QHQcIDxAgISIjJCUmJyszNDU2Nz5CT1JVWWBkaGttVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAHIADbxASBCEEPgQ3BDQEMARCBEwAIAQ+BDEESgRPBDIEOwQ1BD0EOAQ10xESChMZH1dOUy5rZXlzWk5TLm9iamVjdHOlFBUWFxiABIAFgAaAB4AIpRobHB0egAmACoALgBOAF4AbXxAoTVNBdHRyaWJ1dGVkU3RyaW5nVGV4dFRyYW5zZm9ybUF0dHJpYnV0ZVZOU0tlcm5fEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAQTlNQYXJhZ3JhcGhTdHlsZVdOU0NvbG9yEAEjAAAAAAAAAADSCigpKl8QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBKADNMREgosLzKiLS6ADYAOojAxgA+AEIARXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQCQAAAAAAABcUm9ib3RvLUJsYWNr0jg5OjtaJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjOjw9XE5TRGljdGlvbmFyeVhOU09iamVjdNI4OT9AXxAQTlNGb250RGVzY3JpcHRvcqJBPV8QEE5TRm9udERlc2NyaXB0b3LXCkNERUZHSElKS0tNTU5aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHRbTlNBbGlnbm1lbnSAFoAAgBSAFCNANAAAAAAAABAC0hIKUFGggBXSODlTVFdOU0FycmF5olM90jg5VldfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaNWWD1fEBBOU1BhcmFncmFwaFN0eWxl1FpbXApdJV5fVU5TUkdCXE5TQ29sb3JTcGFjZV8QEk5TQ3VzdG9tQ29sb3JTcGFjZUYxIDEgMQCAGIAa0mEKYmNUTlNJRBABgBnSODllZlxOU0NvbG9yU3BhY2WiZz1cTlNDb2xvclNwYWNl0jg5aWpXTlNDb2xvcqJpPdI4OTxsojw90jg5bm9fEBJOU0F0dHJpYnV0ZWRTdHJpbmeicD1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRc3RUcm9vdIABAAgAEQAaACMALQAyADcAVwBdAGQAbQB0AIEAgwCFAIcArgC1AL0AyADOANAA0gDUANYA2ADeAOAA4gDkAOYA6ADqARUBHAE+AVEBWQFbAWQBaQGGAYgBigGRAZQBlgGYAZsBnQGfAaEBtwHNAdYB4wHoAfMB/AISAhYCIwIsAjECRAJHAloCaQJ0AoECjQKfArECvQK/AsECwwLFAs4C0ALVAtYC2ALdAuUC6ALtAwcDCwMeAycDLQM6A08DVgNYA1oDXwNkA2YDaANtA3oDfQOKA48DlwOaA58DogOnA7wDvwPUA+YD6QPuAAAAAAAAAgEAAAAAAAAAdQAAAAAAAAAAAAAAAAAAA/A="
+    }
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "do_objectID": "8814D33A-7FFB-4954-B0E2-438C732BF9AD",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 20,
+    "width": 175,
+    "x": 27,
+    "y": 11
+  },
+  "glyphBounds": "{{31, 6}, {113, 10}}",
+  "heightIsClipped": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Создать объявление",
+  "nameIsFixed": false,
+  "resizingConstraint": 47,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "sharedObjectID": "98FD3FD8-5E74-4F7C-A318-7F0BD70D88F5"
+  },
+  "textBehaviour": 1
+}

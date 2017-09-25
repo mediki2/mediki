@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "do_objectID": "CBEC5204-1A16-49BC-8A0E-7D75649142FE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 180,
+    "width": 264,
+    "x": 30,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "18DB70E1-797C-4557-88F3-74548D024263"
+    },
+    {
+      "class": "group",
+      "id": "298BBAC9-ED31-407F-A50A-0999FC8459C3"
+    },
+    {
+      "class": "group",
+      "id": "52E9893E-AE10-4703-95BF-D12F8D966D37"
+    }
+  ],
+  "name": "Специалист",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

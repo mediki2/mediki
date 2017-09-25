@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "do_objectID": "175D9E31-C1B0-4791-8012-8D68EFD5C3A4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 101,
+    "width": 1200,
+    "x": 50,
+    "y": 19
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "951E29E3-BFAE-4B57-9407-F2F0752276D6"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "5EE97262-F884-4F0B-AC17-4D011E560192"
+    },
+    {
+      "class": "text",
+      "id": "FFEAEDC4-02A9-4ED0-B861-0A60C9635540"
+    },
+    {
+      "class": "text",
+      "id": "58874B6F-AD77-4479-988C-28D6AD4E4570"
+    },
+    {
+      "class": "text",
+      "id": "95291B41-4495-4D1E-AE39-24DF69DD58AC"
+    }
+  ],
+  "name": "шапка",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}
